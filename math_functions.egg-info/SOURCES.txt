@@ -1,0 +1,12 @@
+setup.py
+math_functions/__init__.py
+math_functions/advanced.py
+math_functions/arithmetic.py
+math_functions/utils.py
+math_functions.egg-info/PKG-INFO
+math_functions.egg-info/SOURCES.txt
+math_functions.egg-info/dependency_links.txt
+math_functions.egg-info/top_level.txt
+tests/test_advanced.py
+tests/test_arithmetic.py
+tests/test_utils.py

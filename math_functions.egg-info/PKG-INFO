@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: math_functions
+Version: 1.0.0
+Summary: Un package Python pour des fonctions mathématiques
+Author: Hasna Wahi
+Requires-Python: >=3.6
